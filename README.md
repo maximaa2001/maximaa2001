@@ -46,7 +46,6 @@ Focused on writing clean, maintainable code and building scalable systems.
 
 **Observability**
 
-![Spring Actuator](https://img.shields.io/badge/Spring%20Actuator-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
