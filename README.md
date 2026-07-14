@@ -2,9 +2,10 @@
 
 # Maksim Ausiukevich
 
-**Backend developer focused on JVM, Spring Boot and practical automation**
+**Java Developer | Backend Engineering | Scalable Systems**
 
-I build backend services, Telegram bots and data-processing tools with a bias toward simple architecture, clear observability and maintainable production code.
+Java Developer with 4+ years of experience designing and developing backend solutions for web and mobile applications.
+Focused on writing clean, maintainable code and building scalable systems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-maximaa2001-181717?style=flat&logo=github)](https://github.com/maximaa2001)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksim%20Ausiukevich-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/maksim-ausiukevich/)
@@ -16,54 +17,49 @@ I build backend services, Telegram bots and data-processing tools with a bias to
 
 ## What I Work With
 
-**Backend**
+**Languages and Frameworks**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 
-**Data and Messaging**
+**Data, Messaging and Security**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
 
-**Infrastructure and Observability**
+**Build, DevOps and Delivery**
 
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Observability**
+
+![Spring Actuator](https://img.shields.io/badge/Spring%20Actuator-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-**Frontend Basics**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111111)
-
 ---
 
-## Current Focus
+## Engineering Focus
 
-- Building **flat-aggregator**, a set of services for collecting, processing and publishing apartment listings.
-- Improving automation around Telegram publishing, release workflows and deployment pipelines.
-- Keeping production code observable: structured logs, useful metrics and clear failure modes.
-
----
-
-## Projects
-
-| Project | What it does |
-| --- | --- |
-| [flat-aggregator-api](https://github.com/maximaa2001/flat-aggregator-api) | Collects and normalizes apartment listings from external sources. |
-| [flat-aggregator-publisher](https://github.com/maximaa2001/flat-aggregator-publisher) | Publishes processed listings to Telegram with media and searchable hashtags. |
-| [spring-boot-starter-telegram-bot](https://github.com/maximaa2001/spring-boot-starter-telegram-bot) | Spring Boot starter for Telegram bot integrations. |
+- Backend architecture for web and mobile products
+- Clean, maintainable code with clear boundaries
+- Scalable services, reliable integrations and production-friendly observability
+- Automation around build, deployment and release workflows
 
 ---
 
